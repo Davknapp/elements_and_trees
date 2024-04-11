@@ -1,0 +1,259 @@
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 4 Num elems: 1073741824
+Build time: 8960ms
+Iter time: 2913ms
+Old build time: 27719ms
+Old iter time: 3805ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 8 Num elems: 536870912
+Build time: 8891ms
+Iter time: 2904ms
+Old build time: 29000ms
+Old iter time: 3822ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 16 Num elems: 268435456
+Build time: 9024ms
+Iter time: 2939ms
+Old build time: 29496ms
+Old iter time: 3856ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 32 Num elems: 134217728
+Build time: 9025ms
+Iter time: 2912ms
+Old build time: 29607ms
+Old iter time: 3843ms
+
+29--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 64 Num elems: 67108864
+Build time: 8952ms
+Iter time: 2915ms
+Old build time: 29620ms
+Old iter time: 3795ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 128 Num elems: 33554432
+Build time: 8816ms
+Iter time: 2919ms
+Old build time: 29587ms
+Old iter time: 3804ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 256 Num elems: 16777216
+Build time: 8718ms
+Iter time: 2905ms
+Old build time: 29574ms
+Old iter time: 3801ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 512 Num elems: 8388608
+Build time: 8671ms
+Iter time: 2932ms
+Old build time: 29454ms
+Old iter time: 3792ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 1024 Num elems: 4194304
+Build time: 8466ms
+Iter time: 2915ms
+Old build time: 23210ms
+Old iter time: 3785ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 2048 Num elems: 2097152
+Build time: 8212ms
+Iter time: 2911ms
+Old build time: 16880ms
+Old iter time: 3793ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 4096 Num elems: 1048576
+Build time: 8118ms
+Iter time: 2908ms
+Old build time: 16730ms
+Old iter time: 3774ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 8192 Num elems: 524288
+Build time: 8082ms
+Iter time: 2939ms
+Old build time: 16562ms
+Old iter time: 3772ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 16384 Num elems: 262144
+Build time: 8029ms
+Iter time: 2928ms
+Old build time: 16301ms
+Old iter time: 3781ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 32768 Num elems: 131072
+Build time: 8041ms
+Iter time: 2908ms
+Old build time: 15064ms
+Old iter time: 3777ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 65536 Num elems: 65536
+Build time: 8094ms
+Iter time: 2898ms
+Old build time: 13300ms
+Old iter time: 3766ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 131072 Num elems: 32768
+Build time: 8170ms
+Iter time: 2907ms
+Old build time: 13298ms
+Old iter time: 3782ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 262144 Num elems: 16384
+Build time: 8245ms
+Iter time: 2891ms
+Old build time: 13337ms
+Old iter time: 3809ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 524288 Num elems: 8192
+Build time: 8314ms
+Iter time: 2876ms
+Old build time: 13371ms
+Old iter time: 3790ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 1048576 Num elems: 4096
+Build time: 8400ms
+Iter time: 2872ms
+Old build time: 13688ms
+Old iter time: 3854ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 2097152 Num elems: 2048
+Build time: 8197ms
+Iter time: 2926ms
+Old build time: 13341ms
+Old iter time: 3892ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 4194304 Num elems: 1024
+Build time: 7464ms
+Iter time: 2995ms
+Old build time: 13510ms
+Old iter time: 4043ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 8388608 Num elems: 512
+Build time: 7460ms
+Iter time: 3046ms
+Old build time: 14796ms
+Old iter time: 4415ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 16777216 Num elems: 256
+Build time: 8753ms
+Iter time: 3101ms
+Old build time: 16285ms
+Old iter time: 4836ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 33554432 Num elems: 128
+Build time: 3802ms
+Iter time: 3197ms
+Old build time: 14810ms
+Old iter time: 4218ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 67108864 Num elems: 64
+Build time: 5523ms
+Iter time: 3224ms
+Old build time: 20293ms
+Old iter time: 4120ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 134217728 Num elems: 32
+Build time: 6260ms
+Iter time: 3424ms
+Old build time: 22373ms
+Old iter time: 4214ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 268435456 Num elems: 16
+Build time: 9299ms
+Iter time: 3853ms
+Old build time: 47860ms
+Old iter time: 9240ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 536870912 Num elems: 8
+Build time: 19875ms
+Iter time: 5019ms
+Old build time: 47357ms
+Old iter time: 7538ms
+
+--------------------------------------------------------------
+
+Total number of elements: 4294967296
+Num Trees: 1073741824 Num elems: 4
+Build time: 65123ms
+Iter time: 7488ms
+
